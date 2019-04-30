@@ -5,4 +5,6 @@ May hit points of procrasination during building the website. However, bare with
 
 ## TODO:
 - Add a way to tag mods so its easier to find them with a search bar
-
+	- Add a search bar to index all the mods 
+	- Add categories
+	- Add tutorials for applying modded stuff to the game
